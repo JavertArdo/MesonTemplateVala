@@ -4,9 +4,14 @@ Simple Meson Template Project
 * Meson
 
 ## Build
-Type the following commands
+Type the following commands manually
 ```
-meson build
-cd build
-ninja
+> meson build
+> cd build
+> ninja
+```
+or run script which rebuilds whole project and runs application
+```
+> chmod +x run.sh
+> ./run.sh
 ```

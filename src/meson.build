@@ -1,5 +1,5 @@
 src = [
-	'Application.vala',
+	'App.vala',
 	'Template.vala'
 ]
 
